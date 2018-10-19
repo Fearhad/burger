@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Fearhad/burger/issues"
   },
-  "homepage": "https://github.com/Fearhad/burger#readme"
+  "homepage": "https://github.com/Fearhad/burger#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
