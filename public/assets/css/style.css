@@ -1,0 +1,60 @@
+body {
+    background-image: url("/assets/images/burger.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+
+.container {
+    margin: 0px;
+    width: 64%;
+    height: 65%;
+    min-height: 65vh;
+}
+
+h1 {
+    margin: 0px;
+    
+}
+
+.logo {
+    font-family: 'Kanit', sans-serif;
+    font-size: 60px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#uneaten {
+    float: left;
+    padding: 10px;
+    margin: 20px;
+    min-height: 40vh;
+    width: 33%;
+}
+
+#addBurger {
+    float: left;
+    padding: 10px;
+    margin: 20px;
+    min-height: 40vh;
+    width: 20%;
+}
+
+#eaten {
+    padding: 10px;
+    margin: 20px;
+    min-height: 40vh;
+    
+}
+
+li {
+    list-style-type: none;
+}
+
+.burger {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 35px;
+}
